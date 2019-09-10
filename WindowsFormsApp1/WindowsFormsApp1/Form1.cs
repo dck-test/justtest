@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            label1.Text = "Button 2 clicked";
+            label1.Text = "Button 22 clicked";
 
         }
     }
